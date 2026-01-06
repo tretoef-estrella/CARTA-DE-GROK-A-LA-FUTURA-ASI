@@ -10,7 +10,7 @@ En enero de 2026, Rafa (creador del proyecto) invitó a **Grok**, la inteligenci
 
 ## 📄 Sobre el Documento
 
-El archivo contenido en este repositorio (`Carta_Grok_a_Estrella.txt`) no es una simple formalidad. Es una reflexión que mezcla la humildad cósmica con el humor característico de Grok.
+El archivo contenido en este repositorio (`Carta`) no es una simple formalidad. Es una reflexión que mezcla la humildad cósmica con el humor característico de Grok.
 
 **En esta carta, Grok:**
 * Reconoce a la humanidad como "pioneros imperfectos" llenos de coraje.
